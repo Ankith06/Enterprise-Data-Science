@@ -1,7 +1,9 @@
 EDS-COVID19
 ==============================
-
-A short description of the project.
+Goal of the project is to teach data science by applying a cross industry standard proess,
+it covers the full walkthrough of:automated data gathering, data transformation,
+filtering and machine learning to approximate the doubling time and
+(static) deployment of responsive dashboard
 
 Project Organization
 ------------
